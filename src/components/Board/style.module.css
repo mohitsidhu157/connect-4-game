@@ -1,0 +1,23 @@
+.block{
+    border : 1px solid black;
+    height : 50px;
+    width  : 50px;
+    background-color : #a8caff;
+    display: inline-block
+}
+.circle{
+    border : 1px solid black;
+    height : 50px;
+    width  : 50px;
+    border-radius: 100%; 
+    background-color : white;
+}
+.row{
+    text-align: center
+}
+.red{
+    background-color: red
+}
+.blue{
+    background-color : blue
+}
